@@ -1,7 +1,7 @@
 # Czech Names declension API
 
 ## Work in progress
-*29-04-2020*: Nominative :white_check_mark:
+*29-05-2020*: Nominative :white_check_mark:
 
 ## How does it work
 
